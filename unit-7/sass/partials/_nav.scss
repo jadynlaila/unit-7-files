@@ -1,0 +1,11 @@
+nav {
+    ul {
+        display: flex;
+        justify-content: space-evenly;
+        margin: 10px;
+        list-style: none;
+        li {
+            color: orange;
+        }
+    }
+}
